@@ -1,0 +1,47 @@
+body {
+    background-color: #1453532a;
+}
+
+h2 {
+    color:rgb(54, 53, 50);
+    font-size: 25px;
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.title {
+    color:rgb(84, 4, 121);
+    font-weight:bold;
+    font-size:30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    width:400px;
+    height: 300px;
+}
+
+.description ,
+.ingredients,
+.steps {
+    font-size: 15px;
+    font-weight: 300;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.description {
+    color:rgb(49, 13, 4);
+}
+
+.ingredients {
+    color:rgb(102, 72, 17);
+}
+
+.steps {
+    color:rgb(20, 20, 1);
+}
+
+.home-page {
+    color:rgb(19, 117, 202);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
